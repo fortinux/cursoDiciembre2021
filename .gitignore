@@ -1,3 +1,8 @@
+# Agragados directorios y ficheros
+bin/
+lib64
+pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
