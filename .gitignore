@@ -1,4 +1,5 @@
 # Agragados directorios y ficheros
+.vscode/
 bin/
 lib64
 pyvenv.cfg
