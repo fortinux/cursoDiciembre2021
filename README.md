@@ -37,7 +37,7 @@
 `git commit -m "clase 1"`    
     
 - hacer el commit para subir los ficheros al repositorio    
-`git push origin master`
+`git push origin main`
 
 - Error dirección del repositorio    
 `git remote set-url origin git@github.com:fortinux/cursoDiciembre2021.git`    
