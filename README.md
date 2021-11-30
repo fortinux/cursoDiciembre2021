@@ -1,7 +1,7 @@
 # Curso de Python diciembre del 2021
 
 ## Inicializar repositorio utilizando git
-- Comandos en la terminal    
+- *Comandos a ejecutarse en la terminal:*    
 
 - Configuramos nuestro nombre de usuario:
 `git config --global user.name "usuario"`    
@@ -39,6 +39,6 @@
 - hacer el commit para subir los ficheros al repositorio    
 `git push origin main`
 
-- Error dirección del repositorio    
+- Si muestra el ERROR de la dirección del repositorio, se resuelve con:    
 `git remote set-url origin git@github.com:fortinux/cursoDiciembre2021.git`    
 `git push -u origin HEAD:main`    
